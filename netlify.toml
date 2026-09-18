@@ -1,0 +1,3 @@
+# This repository is deployed directly as a static site.
+[build]
+  publish = "."

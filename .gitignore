@@ -1,0 +1,3 @@
+/.netlify/*
+!/.netlify/state.json
+!/.netlify/results.md
